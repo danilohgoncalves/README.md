@@ -36,7 +36,7 @@
 
 </div>
 
-![Snake animation](https://github.com/seu-usuario/seu-usuario/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/leticiasfrazao/leticiasfrazao/ad6fa7bb86334b9234c377dcb8604924e0b91bdf/snake-gif.svg)
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFFFF&width=500&height=70&duration=4000&lines=Thanks+for+.README!+😊" style="display: block; margin: 0; padding: 0;" />
 
 
